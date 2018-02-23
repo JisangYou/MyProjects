@@ -1,8 +1,6 @@
 # MyProject
 
-## Index
-
-### 안드로이드 프로젝트
+## 안드로이드 프로젝트
 
 1. SkillShare 앱 따라하기
 2. Between 앱 따라하기
