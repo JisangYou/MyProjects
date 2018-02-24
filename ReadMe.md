@@ -10,6 +10,8 @@
 6. 게시판 프로젝트
 7. 계산기 프로젝트
 
+--------------------------------------------------------------------------------
+
 ### 1. SkillShare 앱 따라하기
 
 > __TeamProject(feat. 1 Month Project)__
@@ -23,6 +25,8 @@
 - [Android Code](https://github.com/youjisang/skill_share.git)
 - [NodeJs Code](https://github.com/youjisang/skill-share-server.git)
 
+--------------------------------------------------------------------------------
+
 ### 2. Between 앱 따라하기
 
 > __TeamProject(feat. 해커톤)__
@@ -33,6 +37,8 @@
 
 #### __소스 링크__
 - [Android Code](https://github.com/youjisang/Between.git)
+
+--------------------------------------------------------------------------------
 
 ### 3. SoMap 프로젝트
 
@@ -45,6 +51,8 @@
 #### __소스 링크__
 - [Android Code](https://github.com/youjisang/SoMap.git)
 
+--------------------------------------------------------------------------------
+
 ### 4. MusicPlayer 프로젝트
 
 > __개인 Project__
@@ -56,6 +64,8 @@
 #### __소스 링크__
 - [Android Code]()
 
+--------------------------------------------------------------------------------
+
 ### 5. Tetris 프로젝트
 
 > __개인 Project__
@@ -66,6 +76,8 @@
 
 #### __소스 링크__
 - [Android Code]()
+
+--------------------------------------------------------------------------------
 
 ### 6. 게시판 프로젝트
 
@@ -85,6 +97,8 @@
 - [memo02 Android Code](https://github.com/youjisang/ADS_Android_MemoWithSQLite.git)
 - [memo03 Android Code](https://github.com/youjisang/ADS_Android_MemoWithRecyclerViewAndORM.git)
 
+--------------------------------------------------------------------------------
+
 ### 7. 계산기 프로젝트
 
 > __개인 Project__
@@ -95,3 +109,5 @@
 
 #### __소스 링크__
 - [Android Code]()
+
+--------------------------------------------------------------------------------
