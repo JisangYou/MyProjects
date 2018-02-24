@@ -73,10 +73,17 @@
 
 #### __동영상 링크__
 - ※ 영상시청시 자막을 켜고 보시는 것을 추천합니다.
-- [시연영상 Link]()
+- [memo01 시연영상 Link](https://youtu.be/fldQ7xbobfI)
+    - File I/O 활용한 메모장
+- [memo02 시연영상 Link](https://youtu.be/4_tm6vh6AUs)
+    - SqlLite를 활용한 CRUD가 가능한 메모장
+- [memo03 시연영상 Link](https://youtu.be/442qudDghg4)
+    - OrmLite 라이브러리를 활용한 그림 메모장
 
 #### __소스 링크__
-- [Android Code]()
+- [memo01 Android Code](https://github.com/youjisang/ADS_Android_MemoWithFile.git)
+- [memo02 Android Code](https://github.com/youjisang/ADS_Android_MemoWithSQLite.git)
+- [memo03 Android Code](https://github.com/youjisang/ADS_Android_MemoWithRecyclerViewAndORM.git)
 
 ### 7. 계산기 프로젝트
 
