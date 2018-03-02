@@ -59,10 +59,10 @@
 
 #### __동영상 링크__
 - ※ 영상시청시 자막을 켜고 보시는 것을 추천합니다.
-- [시연영상 Link]() 준비중
+- [시연영상 Link](https://youtu.be/7-FiNZeCSXM)
 
 #### __소스 링크__
-- [Android Code](https://github.com/youjisang/MusicPlayer2.git)
+- [Android Code](https://github.com/youjisang/Library_and_STN/tree/master/MusicPlayerProject)
 
 --------------------------------------------------------------------------------
 
