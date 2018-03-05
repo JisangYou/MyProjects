@@ -14,6 +14,10 @@
 
 ### 1. SkillShare 앱 따라하기
 
+#### sample image
+
+![about](https://user-images.githubusercontent.com/31605792/36976914-910f7bda-20c2-11e8-818f-f8d638020eb7.png)
+
 > __TeamProject(feat. 1 Month Project)__
 
 #### __동영상 링크__
@@ -29,6 +33,10 @@
 
 ### 2. Between 앱 따라하기
 
+#### sample image
+
+![between](https://user-images.githubusercontent.com/31605792/36976786-314fff76-20c2-11e8-8af9-f2163172dbc0.png)
+
 > __TeamProject(feat. 해커톤)__
 
 #### __동영상 링크__
@@ -41,6 +49,10 @@
 --------------------------------------------------------------------------------
 
 ### 3. SoMap 프로젝트
+
+#### sample image
+
+![somap](https://user-images.githubusercontent.com/31605792/36976789-31b907c8-20c2-11e8-8c3b-28a2d7fd0748.jpg)
 
 > __MiniProject__
 
@@ -55,6 +67,10 @@
 
 ### 4. MusicPlayer 프로젝트
 
+#### sample image
+
+![musicplayer](https://user-images.githubusercontent.com/31605792/36976785-3115e25a-20c2-11e8-81fa-5da186e4fd37.jpg)
+
 > __개인 Project__
 
 #### __동영상 링크__
@@ -68,18 +84,24 @@
 
 ### 5. Tetris 프로젝트
 
+#### sample image
+
+![tetris](https://user-images.githubusercontent.com/31605792/36976790-31e84420-20c2-11e8-8e55-6c0d0d78b80a.jpg)
+
 > __개인 Project__
 
-#### __동영상 링크__
-- ※ 영상시청시 자막을 켜고 보시는 것을 추천합니다.
-- [시연영상 Link]() 준비중
-
-#### __소스 링크__
+#### __소스 링크 및 영상링크__
 - [Android Code](https://github.com/youjisang/Tetris2.git)
 
 --------------------------------------------------------------------------------
 
 ### 6. 게시판 프로젝트
+
+#### sample image
+
+![memo](https://user-images.githubusercontent.com/31605792/36976792-324b5f6a-20c2-11e8-9db8-b86f11f3449d.jpg)
+![memo2](https://user-images.githubusercontent.com/31605792/36976794-327e5424-20c2-11e8-91bb-12e0fce9cd1b.jpg)
+![memo3](https://user-images.githubusercontent.com/31605792/36976788-31831064-20c2-11e8-8a48-3230f8c9d333.png)
 
 > __개인 Project__
 
@@ -100,6 +122,10 @@
 --------------------------------------------------------------------------------
 
 ### 7. 계산기 프로젝트
+
+#### sample image
+
+![calc](https://user-images.githubusercontent.com/31605792/36976791-32181b46-20c2-11e8-8040-9554e2ede701.jpg)
 
 > __개인 Project__
 
