@@ -52,7 +52,7 @@
 
 #### sample image
 
-![somap](https://user-images.githubusercontent.com/31605792/36976789-31b907c8-20c2-11e8-8c3b-28a2d7fd0748.jpg)
+![somap](https://user-images.githubusercontent.com/31605792/36977329-1c7e669e-20c4-11e8-91a8-02f2a227cd5b.jpg)
 
 > __MiniProject__
 
@@ -69,7 +69,7 @@
 
 #### sample image
 
-![musicplayer](https://user-images.githubusercontent.com/31605792/36976785-3115e25a-20c2-11e8-81fa-5da186e4fd37.jpg)
+![musicplayer](https://user-images.githubusercontent.com/31605792/36977328-1c4e3898-20c4-11e8-8680-19050e9d9a3e.jpg)
 
 > __개인 Project__
 
@@ -86,7 +86,7 @@
 
 #### sample image
 
-![tetris](https://user-images.githubusercontent.com/31605792/36976790-31e84420-20c2-11e8-8e55-6c0d0d78b80a.jpg)
+![tetris](https://user-images.githubusercontent.com/31605792/36977330-1cb05b22-20c4-11e8-95e0-12cfca5445df.jpg)
 
 > __개인 Project__
 
@@ -99,8 +99,8 @@
 
 #### sample image
 
-![memo](https://user-images.githubusercontent.com/31605792/36976792-324b5f6a-20c2-11e8-9db8-b86f11f3449d.jpg)
-![memo2](https://user-images.githubusercontent.com/31605792/36976794-327e5424-20c2-11e8-91bb-12e0fce9cd1b.jpg)
+![memo](https://user-images.githubusercontent.com/31605792/36977333-1d0d89dc-20c4-11e8-8878-e45093e3e4f0.jpg)
+![memo2](https://user-images.githubusercontent.com/31605792/36977334-1d3e990a-20c4-11e8-8399-c71fd5ae11fb.jpg)
 ![memo3](https://user-images.githubusercontent.com/31605792/36976788-31831064-20c2-11e8-8a48-3230f8c9d333.png)
 
 > __개인 Project__
@@ -125,7 +125,7 @@
 
 #### sample image
 
-![calc](https://user-images.githubusercontent.com/31605792/36976791-32181b46-20c2-11e8-8040-9554e2ede701.jpg)
+![calc](https://user-images.githubusercontent.com/31605792/36977331-1cdf44d2-20c4-11e8-8341-7ec0b1a2b60b.jpg)
 
 > __개인 Project__
 
